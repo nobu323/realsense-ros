@@ -1,0 +1,10 @@
+enable_color: true
+rgb_camera.profile: 1280x720x5
+enable_depth: true
+align_depth.enable: true
+enable_sync: true
+depth_module.depth_profile: 640x480x5
+# publish_tf: true
+# tf_publish_rate: 1.0
+enable_rgbd: true
+pointcloud.enable: true
